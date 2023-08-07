@@ -14,10 +14,5 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielgbcode/)
 
 ### 📊 GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielgbcode&theme=highcontrast" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat" target="_blank">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielgbcode&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
-</a>
+![GabrielGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgbcode&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgbcode&hide_progress=true&theme=highcontrast)
