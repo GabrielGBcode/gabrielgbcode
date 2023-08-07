@@ -1,5 +1,7 @@
 ### 👋 Olá! Eu sou o GabrielGB
 
+Me chamo Gabriel, tenho 20 anos. Estudante, apaixonado e entusiasta de tecnologia. Sempre procurando aprender cada vez mais!
+
 ### 💻 Tecnologias que eu uso
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,9 +16,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielgbcode/)
 
 ### 📊 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+
+<a href="https://github.com/gabrielgbcode" target="_blank">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielgbcode&theme=highcontrast" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat" target="_blank">
+<a href="https://github.com/gabrielgbcode" target="_blank">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielgbcode&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
 </a>
