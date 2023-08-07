@@ -1,4 +1,6 @@
 ### Hi there 👋
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
 
 <!--
 **GabrielGBcode/gabrielgbcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
