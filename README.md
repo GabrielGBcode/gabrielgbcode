@@ -15,9 +15,10 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/gabrielgbcode/github-readme-stats">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielgbcode&theme=highcontrast" />
 </a>
-<a href="https://github.com/gabrielgbcode/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielgbcode&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
 </a>
