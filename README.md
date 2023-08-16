@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou o GabrielGB
+### 👋 Olá! Eu sou o Gabriel Gomes Batista
 
 Me chamo Gabriel, tenho 20 anos. Estudante, apaixonado e entusiasta de tecnologia. Sempre procurando aprender cada vez mais!
 
