@@ -17,5 +17,5 @@ Me chamo Gabriel, tenho 20 anos. Estudante, apaixonado e entusiasta de tecnologi
 
 ### 📊 GitHub Stats
 
-[![GabrielGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgbcode&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgbcode&show_icons=true&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GabrielGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgbcode&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgbcode&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
