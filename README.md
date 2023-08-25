@@ -4,18 +4,20 @@ Me chamo Gabriel, tenho 20 anos. Estudante, apaixonado e entusiasta de tecnologi
 
 ### 💻 Tecnologias que eu uso
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ### 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielgb.zip)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielgbcode/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/gabrielgb.zip/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabrielgbcode/)
 
 ### 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielgbcode&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
 
 [![GabrielGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgbcode&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgbcode&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
