@@ -9,7 +9,8 @@ Me chamo Gabriel, tenho 20 anos. Estudante, apaixonado e entusiasta de tecnologi
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Static Badge](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs)
+![NodeJs](https://img.shields.io/badge/nodejs-000?style=for-the-badge&logo=nodedotjs)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=%23c3002f)
 
 ### 🌐 Socials
 
