@@ -1,75 +1,64 @@
-# 💻 **Gabriel Gomes Batista**
+# Gabriel Gomes Batista
 
-***Estudante de Análise e Desenvolvimento de Sistemas | Dados, Automação e Desenvolvimento de Sistemas***
+Software developer focused on back-end development with C#/.NET, REST APIs and relational databases.
 
-## 🚀 Sobre mim
+I hold a degree in Systems Analysis and Development and have professional experience in hospital IT support, working with incidents, corporate systems, access management, workstations, operational routines and user support.
 
-Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo na área de tecnologia em ambiente hospitalar, com experiência em suporte técnico, sistemas corporativos, automação de rotinas e resolução de problemas reais de operação.
+This background strengthened my problem-solving skills, communication, attention to reliability and responsibility when working with critical systems. I am now applying this experience to back-end development and software engineering.
 
-Meu foco atual é evoluir em **análise de dados, SQL, Python, automação e desenvolvimento de sistemas**, conectando minha experiência prática em TI com projetos que envolvem dados, processos, aplicações web e contextos reais de negócio.
+## Current learning focus
 
-* 🌟 **Principais tecnologias:** Python, SQL, TypeScript, Angular, React, Node.js e MySQL
-* 🎯 **Foco profissional:** dados, automação, sistemas internos e desenvolvimento web
-* 📘 **Atualmente estudando:** SQL, PL/SQL, Python para dados, testes automatizados e boas práticas de arquitetura
-* 🏥 **Interesse aplicado:** tecnologia em saúde, operações, dados e sistemas corporativos
+- C# and .NET
+- ASP.NET Core Web API
+- Entity Framework Core
+- RESTful APIs
+- SQL and relational databases
+- Docker and Docker Compose
+- Automated testing
+- Layered architecture and clean code practices
+- Git and GitHub
 
----
+## Professional background
 
-## 🧭 **Foco profissional**
+My experience in hospital IT gives me practical contact with:
 
-* Análise e tratamento de dados com **Python** e **SQL**
-* Automação de processos e rotinas operacionais
-* Desenvolvimento de aplicações web com **Angular**, **React**, **TypeScript** e **Node.js**
-* Banco de dados relacional com **MySQL**, **SQL** e estudos em **PL/SQL**
-* Projetos aplicados a contextos reais, especialmente saúde, operações e dados
+- Critical systems and operational incidents
+- User access and permission management
+- Technical troubleshooting
+- Business processes and internal systems
+- Communication with technical and non-technical users
+- Reliability, documentation and process improvement
 
----
+## Selected projects
 
-## 🔧 **Projetos em destaque**
+### [Employee Reviews Analysis](https://github.com/GabrielGBcode/BigData-Inter)
 
-### 📊 **BigData-Inter — Análise de reclamações com NLP e clustering**
+Python and NLP project for processing textual reviews, generating embeddings, clustering information, visualizing patterns and producing thematic summaries.
 
-Projeto de análise de relatos textuais utilizando técnicas de **processamento de linguagem natural**, **embeddings**, **clusterização**, visualizações e geração de resumos temáticos com IA.
+**Main concepts:** Python, data processing, NLP, automation and project organization.
 
-**Principais pontos técnicos:**
+### [Mechanical Workshop Management](https://github.com/GabrielGBcode/projeto-java)
 
-* Coleta e processamento de dados textuais
-* Geração de embeddings
-* Clusterização de textos
-* Visualização com t-SNE
-* Nuvens de palavras por cluster
-* Análise temporal dos grupos identificados
-* Resumos automáticos com IA local ou API
+Academic Java application focused on object-oriented programming, business rules and the management of customers, vehicles, inventory, estimates and services.
 
-🌐 [Acessar repositório](https://github.com/GabrielGBcode/BigData-Inter)
+**Main concepts:** Java, OOP, domain modeling, file persistence and separation of responsibilities.
 
----
+### [Hospital Management Study](https://github.com/GabrielGBcode/mv-system)
 
-### 🏥 **MV System — Estudo de sistema hospitalar**
+Educational Angular project based on common hospital workflows, including patient and appointment management interfaces.
 
-Recriação educacional de um sistema de gestão hospitalar, inspirado em fluxos reais de sistemas utilizados na área da saúde.
+**Main concepts:** Angular, TypeScript, component organization and healthcare business context.
 
-**Objetivo do projeto:**
+## Portfolio roadmap
 
-Estudar arquitetura, telas, fluxos e regras de negócio comuns em sistemas hospitalares, como prontuário, agendamento, pacientes e rotinas administrativas.
+My next public projects are focused on:
 
-**Tecnologias utilizadas:**
-
-Angular, TypeScript, HTML e CSS.
-
-🌐 [Acessar repositório](https://github.com/GabrielGBcode/mv-system)
-
----
-
-### ☕ **Projeto Java — API para oficina mecânica**
-
-Projeto acadêmico de uma API para gestão de oficina mecânica, com foco em clientes, veículos, funcionários, estoque, orçamentos e serviços.
-
-**Objetivo do projeto:**
-
-Praticar organização de entidades, regras de negócio, estruturação de código e persistência de dados em um cenário próximo de um sistema real.
-
-🌐 [Acessar repositório](https://github.com/GabrielGBcode/projeto-java)
+- ASP.NET Core REST APIs
+- Entity Framework Core and relational databases
+- Authentication and authorization
+- Automated tests
+- Docker
+- API documentation with Swagger/OpenAPI
 
 ---
 
@@ -99,7 +88,7 @@ Praticar organização de entidades, regras de negócio, estruturação de códi
 ## 📫 **Como me encontrar**
 
 * 💼 **LinkedIn:** [GabrielGBCode](https://www.linkedin.com/in/gabrielgbcode/)
-* 📧 **E-mail:** [gabrielgb.xyz@gmail.com](mailto:gabrielgb.xyz@gmail.com)
+* 📧 **E-mail:** [gabrielbatista.tech@gmail.com](mailto:gabrielbatista.tech@gmail.com)
 * 🧑‍💻 **GitHub:** [GabrielGBcode](https://github.com/GabrielGBcode)
 
 ---
