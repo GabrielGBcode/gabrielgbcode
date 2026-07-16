@@ -59,27 +59,33 @@ My next public projects are focused on:
 - Automated tests
 - Docker
 - API documentation with Swagger/OpenAPI
+- Layered architecture and separation of responsibilities
+- Error handling, logging, and input validation
 
 ---
 
-## 🌐 **Tecnologias que eu uso e estudo**
+## 🌐 **Technologies I Use and Study**
 
 ![My Skills](https://skillicons.dev/icons?i=python,java,cs,javascript,typescript,react,angular,nodejs,html,css,mysql,git,github,vscode\&theme=dark)
 
 ---
 
-## 📚 **O que estou estudando agora**
+## 📚 **What I Am Currently Studying**
 
-* SQL e PL/SQL
-* Python para análise de dados
-* Boas práticas de arquitetura e organização de projetos
-* Testes automatizados
-* Documentação técnica mais clara
-* Integração entre front-end, back-end e banco de dados
+* C# and the .NET ecosystem
+* ASP.NET Core Web API development
+* Entity Framework Core
+* SQL and relational database modeling
+* RESTful API design
+* Automated testing
+* Software architecture and project organization
+* Docker and containerized applications
+* Technical documentation
+* Integration between front-end applications, back-end services, and databases
 
 ---
 
-## 📈 **Minhas estatísticas no GitHub**
+## 📈 **GitHub Activity**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gabrielgbcode\&theme=midnight-purple\&mode=weekly)](https://git.io/streak-stats)
 
@@ -93,6 +99,5 @@ My next public projects are focused on:
 
 ---
 
-## ✨ **O que eu acredito**
-
-"Pequenos detalhes fazem grandes projetos." — Para mim, bons projetos não dependem apenas de tecnologia, mas também de clareza, organização, documentação e evolução contínua.
+## ✨ **What I Believe**
+"Small details make great projects." — I believe good software is not defined by technology alone. It also depends on clarity, organization, maintainability, documentation, and continuous improvement.
