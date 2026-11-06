@@ -85,12 +85,6 @@ My next public projects are focused on:
 
 ---
 
-## 📈 **GitHub Activity**
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielgbcode\&theme=midnight-purple\&mode=weekly)](https://git.io/streak-stats)
-
----
-
 ## 📫 **Como me encontrar**
 
 * 💼 **LinkedIn:** [GabrielGBCode](https://www.linkedin.com/in/gabrielgbcode/)
